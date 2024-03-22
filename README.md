@@ -62,4 +62,6 @@ I have also spearheaded the development of a Centralized Internal Compliance Too
 
     •	Heart disease investigation using Python libraries (Python & Jupyter Notebook)
 
+    •	Loan Status Prediction using Machine Learning with Python (Python & Jupyter Notebook)
+
 I am also very interested in Cloud Depolyments and Data Engineering. Now, I'm energized by the prospect of leveraging my technical and communication skills in the fast-paced world. My fluency in both technical aspects and clear communication makes me a valuable asset to any team.
